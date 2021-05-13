@@ -1,1 +1,5 @@
-venv/
+*
+
+.gitignore
+requirements.txt
+scraper.py
